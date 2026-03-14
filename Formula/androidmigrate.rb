@@ -3,8 +3,8 @@ class Androidmigrate < Formula
 
   desc "Checkpointed Android folder backup and sync over ADB"
   homepage "https://github.com/MachineLearning-Nerd/AndroidMigrate"
-  url "https://github.com/MachineLearning-Nerd/AndroidMigrate/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "cb8e5728f3d279be6df40703aca02a75c55e4e6ed9c5a7e4f93ff2badab8c41c"
+  url "https://github.com/MachineLearning-Nerd/AndroidMigrate/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "88e936918f637ba984f521eaf15386f27b5ec92dfcb4122c17314dec6d9a3a07"
   license "MIT"
 
   depends_on "python@3.12"
