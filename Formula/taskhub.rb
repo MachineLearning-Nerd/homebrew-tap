@@ -5,23 +5,23 @@ class Taskhub < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.0/taskhub-cli-aarch64-apple-darwin.tar.xz"
-      sha256 "cab23c7d6e0c477653e2484e93050df8906ab2644a1787fc076fbd901c1ead2e"
+      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.1/taskhub-cli-aarch64-apple-darwin.tar.xz"
+      sha256 "247612cefb4ccd75c2993cbc2292170d3b67b43f8718d713bebc1bc65d919a93"
     end
     on_intel do
-      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.0/taskhub-cli-x86_64-apple-darwin.tar.xz"
-      sha256 "6e63e2827c5a299b6a15968ff9f220d4ab2fc7a8da2fdfd4c7dbd9d8eec2c93e"
+      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.1/taskhub-cli-x86_64-apple-darwin.tar.xz"
+      sha256 "0ec6acc4f3751f4dd9dbd2c8c6b070eaad96d45408b1ef0e476c7cc5e9304f5e"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.0/taskhub-cli-aarch64-unknown-linux-musl.tar.xz"
-      sha256 "2d137ff7c4038b964ace0a8134da0d6660645288211fee3efd58516fce31d1a0"
+      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.1/taskhub-cli-aarch64-unknown-linux-musl.tar.xz"
+      sha256 "5458ac3671d39b4579809b08a931d7544948f5e164e38edf007b4ecdfcd2aac9"
     end
     on_intel do
-      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.0/taskhub-cli-x86_64-unknown-linux-musl.tar.xz"
-      sha256 "2b34808fcb27178978219d10ecb2c8a2d3cd580a407b58dcdf7f83364761d2a9"
+      url "https://github.com/MachineLearning-Nerd/taskhub-cli/releases/download/v0.1.1/taskhub-cli-x86_64-unknown-linux-musl.tar.xz"
+      sha256 "3f0d34263f734f00a00850f5f2a6030d521737eaa083e95d404b7bb86a46308d"
     end
   end
 
