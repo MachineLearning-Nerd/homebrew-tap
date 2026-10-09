@@ -1,7 +1,6 @@
 class Taskhub < Formula
   desc "Command-line client and MCP server for TaskHub"
   homepage "https://github.com/MachineLearning-Nerd/taskhub-cli"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
